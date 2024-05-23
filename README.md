@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cody!
-- 👀 I’m interested in Junior Developer Positions!
+- 👀 I’m interested in Mid-Senior Software Developer Positions!
 - 🌱 I’m currently advancing in .NET with C#, Javascript (Angular, React), SQL and more Full Stack Development!
 - 📫 How to reach me ... codyd2k1@gmail.com
 - :eagle: Go Seahawks!
